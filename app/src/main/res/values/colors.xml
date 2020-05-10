@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#91EAE4</color>
+    <color name="colorPrimaryDark">#86A8E7</color>
+    <color name="colorAccent">#7F7FD5</color>
+
+    <color name="second_grey">#91EAE4</color>
+    <color name="card_shadow">#86A8E7</color>
+    <color name="card_white">#7F7FD5</color>
+
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorGradientStart">#91EAE4</color>
+    <color name="colorGradientCenter">#86A8E7</color>
+    <color name="colorGradientEnd">#7F7FD5</color>
+
+    <color name="colorRed">#290459</color>
+
+</resources>
